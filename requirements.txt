@@ -1,0 +1,10 @@
+pdf2image
+opencv-python
+pytesseract
+matplotlib
+pandas
+flask
+flask-cors
+python-dotenv
+waitress
+gunicorn

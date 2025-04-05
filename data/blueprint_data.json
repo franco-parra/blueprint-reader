@@ -1,0 +1,42 @@
+{
+  "uso de suelo": {
+    "destino": "taller de costura"
+  },
+  "agrupamiento": {
+    "sistema de agrupamiento": "contínuo",
+    "zonas": [
+      {
+        "nombre": "elevación norte",
+        "altura máxima": "6.83 [m]"
+      },
+      {
+        "nombre": "elevación sur",
+        "altura máxima": "6.83 [m]"
+      },
+      {
+        "nombre": "corte a1",
+        "altura máxima": "4.15 [m]"
+      },
+      {
+        "nombre": "corte a2",
+        "altura máxima": "6.83 [m]"
+      }
+    ]
+  },
+  "estacionamientos": {
+    "destino": "taller de costura",
+    "zonas": []
+  },
+  "coeficiente de constructibilidad": {
+    "superficie terreno": "174.72 [m^2]",
+    "constructibilidad": "200.51 [m^2]"
+  },
+  "coeficiente de ocupación de suelo": {
+    "sistema de agrupamiento": "contínuo",
+    "ocupación de suelo": "143.66 [m^2]"
+  },
+  "coeficiente de ocupación de pisos superiores": {
+    "sistema de agrupamiento": "contínuo",
+    "ocupación pisos superiores": "56.85 [m^2]"
+  }
+}
